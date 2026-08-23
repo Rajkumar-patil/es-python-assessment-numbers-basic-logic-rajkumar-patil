@@ -7,7 +7,7 @@
 
 ## Candidate Information
 
-* **Full Name:** Rajkumar Patil
+* **Full Name:** Rajkumar Satish Patil
 * **Submission Date:** 23 August 2026
 
 ## Assessment Overview
